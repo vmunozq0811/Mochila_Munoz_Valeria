@@ -1,0 +1,8 @@
+﻿* ¿Por qué un lenguaje de programación sólo puede utilizarse en algunos sistemas operativos y en otros no?
+R/ Cada sistema operativo tiene su propia API (Interfaz de Programación de Aplicaciones) y su propia forma de interactuar con el hardware.
+* ¿Qué tipo de máquina virtual es virtualBox?
+R/ VirtualBox es un software de virtualización que permite crear máquinas virtuales en las que se pueden instalar sistemas operativos diferentes.
+* Si tengo más de una máquina virtual instalada, y una se rompe, ¿esto afecta a las demás? ¿por qué?
+R/ Si una máquina virtual se rompe, esto no afecta a las demás máquinas virtuales ya que cada una funciona de manera independiente.
+
+(La imagen está en el archivo Readme.md ya que los archivos de texto no reciben imágenes)
